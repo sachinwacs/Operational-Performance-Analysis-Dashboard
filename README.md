@@ -40,9 +40,13 @@ The dashboard uses the following datasets:
 ## Key Insights 
 - Ranks of the representatives according to the amount generated
 Rank 1 - R03 - $20,872
+
 Rank 2 - R02 - $20,581
+
 Rank 3 - R05 - $20,104
+
 Rank 4 - R01 - $18,415
+
 Rank 5 - R04 - $16,651
 
 - Ranks of the representatives according to Call Count
