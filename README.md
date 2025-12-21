@@ -38,26 +38,26 @@ The dashboard uses the following datasets:
 - All visuals can be filtered by representatives
 
 ## Key Insights 
-- Ranks of the representatives according to the amount generated <br>
+- Ranks of the representatives according to the amount generated <br> <br>
 Rank 1 - R03 - $20,872 <br>
 Rank 2 - R02 - $20,581 <br>
 Rank 3 - R05 - $20,104 <br>
 Rank 4 - R01 - $18,415 <br>
 Rank 5 - R04 - $16,651
 
-- Ranks of the representatives according to Call Count <br>
+- Ranks of the representatives according to Call Count <br> <br>
 Rank 1 - R02 - 218 <br>
 Rank 2 - R03 - 207 <br>
 Rank 3 - R05 - 200 <br>
 Rank 4 - R01 - 189 <br>
 Rank 5 - R04 – 186
 
-- Top 3 most call count received months(Overall):  <br>
+- Top 3 most call count received months(Overall):  <br> <br>
 March-155 <br>
 April-136 <br>
 October-114 <br>
 
-- Top 3 most call count received days of the week(Overall): <br>
+- Top 3 most call count received days of the week(Overall): <br> <br>
 Saturday-161 <br>
 Wednesday-153 <br>
 Sunday-146
