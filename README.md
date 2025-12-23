@@ -64,7 +64,7 @@ Sunday-146
 
 ## Dashboard Preview
 ![portfolio Dashboard](operational-performance-analysis-dashboard-interface.png)
-[Click to watch the Excel Dashboard Demo](operational-performance-analysis-dashboard-preview.mkv)
+[Download the Excel Dashboard Demo](operational-performance-analysis-dashboard-preview.mkv)
 
 ## How to Use
 1. Download the Excel (.xlsx) file - [Download](operational-performance-analysis.xlsx)
